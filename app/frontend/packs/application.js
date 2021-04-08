@@ -14,3 +14,5 @@ ActiveStorage.start()
 
 require('bootstrap')
 import 'bootstrap/dist/css/bootstrap'
+
+import '../js/bootstrap_js_files.js'
